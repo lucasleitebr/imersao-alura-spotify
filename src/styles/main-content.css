@@ -104,14 +104,14 @@
     margin: 24px;
 }
 
-.playlist .greeting { 
+.playlist #greeting { 
     color: #FFFFFF;
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 48px;
 }
 
-.playlist .greeting-subtitle {
+.playlist .session {
     color: #FFFFFF;
     font-size: 24px;
     font-weight: 700;
@@ -151,13 +151,13 @@
     width: 220px;
     height: 200px;
     overflow: hidden;
-    border-radius: 8px;
+    border-radius: 10px;
 }
   
 .cards span {
     padding: 16px;
     position: absolute;
-    color: #fff;
+    color: #FFFFFF;
     font-size: 24px;
     font-weight: 700;
 }
